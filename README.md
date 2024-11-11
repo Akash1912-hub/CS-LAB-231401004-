@@ -1,6 +1,6 @@
 # Computational_statistics
 
 
-Name: Hariharan K
-Roll number: 231401032
+Name: Akash MK
+Roll number: 231401004
 Dept: CSBS A
